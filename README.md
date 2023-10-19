@@ -7,3 +7,4 @@ These addresses are very long and written in a rather complicated language. It w
 
 ### Solution
 Why read the whole address when you can highlight the top phrases in each message? 
+![image](https://github.com/Aitugan/TF-IDF-for-KZ-president-speech/assets/43519581/a197ba72-c7c0-40dc-8a85-6990df9f0c21)
